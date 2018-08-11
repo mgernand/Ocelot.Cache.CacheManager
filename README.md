@@ -4,7 +4,7 @@
 Windows (AppVeyor)
 [![Build Status](https://travis-ci.org/ThreeMammals/Ocelot.Cache.Caching.svg?branch=develop)](https://travis-ci.org/ThreeMammals/Ocelot.Cache.Caching) Linux & OSX (Travis)
 
-[![Coverage Status](https://coveralls.io/repos/github/ThreeMammals/Ocelot.Cache.Caching/badge.svg?branch=develop)](https://coveralls.io/github/ThreeMammals/Ocelot.Cache.Caching?branch=develop)
+[![Coverage Status](https://coveralls.io/repos/github/ThreeMammals/Ocelot.Cache.CacheManager/badge.svg?branch=develop)](https://coveralls.io/github/ThreeMammals/Ocelot.Cache.CacheManager?branch=develop)
 
 # Ocelot
 
