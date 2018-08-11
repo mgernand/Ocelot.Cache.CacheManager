@@ -1,6 +1,6 @@
 [<img src="http://threemammals.com/images/ocelot_logo.png">](http://threemammals.com/ocelot)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/qbt0e5rdftdvh3t9?svg=true)](https://ci.appveyor.com/project/TomPallister/ocelot-cache-cachemanager)
+[![Build status](https://ci.appveyor.com/api/projects/status/8ry4ailt7rr5mbu7?svg=true)](https://ci.appveyor.com/project/TomPallister/ocelot-cache-cachemanager)
 Windows (AppVeyor)
 [![Build Status](https://travis-ci.org/ThreeMammals/Ocelot.Cache.Caching.svg?branch=develop)](https://travis-ci.org/ThreeMammals/Ocelot.Cache.Caching) Linux & OSX (Travis)
 
